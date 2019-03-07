@@ -1,0 +1,15 @@
+{
+  "name": "bnb_dex_competition",
+  "version": "1.0.0",
+  "description": "Code for bnb_dex_competition",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bnb",
+    "dex"
+  ],
+  "author": "cdyfng",
+  "license": "MIT"
+}
